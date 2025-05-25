@@ -123,7 +123,7 @@ Type **npm start** in terminal to start the application after installing the dep
 
 **Abouts Us** 
 
-![About Us](https://github.com/iTs-Mantrin/Resume-Builder/assets/AboutUs.png)
+![About Us](assets/AboutUs.png)
 
 ## Links for the project
 
