@@ -107,27 +107,27 @@ Type **npm start** in terminal to start the application after installing the dep
 
 **Template Selection** - From this component user can choose their favourite template.
 
-![template selection](https://github.com/iTs-Mantrin/Resume-Builder/assets/112394456/ebc3023b-b631-4d9c-bbac-97c3ca1aff2c)
+![template selection](https://github.com/iTs-Mantrin/Resume-Builder/assets/TemplateSelection.png)
 
 **Details Filling Page** - From this component user can add their details of personal info, education, experience and skills.
 
-![perosnal](https://github.com/iTs-Mantrin/Resume-Builder/assets/112394456/b4142cb3-d785-40ce-841e-396f200c8764)
+![perosnal](https://github.com/iTs-Mantrin/Resume-Builder/assets/DetailsFillingPage.png)
 
 **Preview Page** - The user will see their resume in its final form in this component, and once everything is finished, they can use the save button to downlaod it in PDF format.
 
-![preview](https://github.com/iTs-Mantrin/Resume-Builder/assets/112394456/7c69597f-c7ce-46bc-b5b1-5803a954012c)
+![preview](https://github.com/iTs-Mantrin/Resume-Builder/assets/PreviewPage.png)
 
 **My Resume Page** - This component shows the resume that user saved.
 
-![myresume page](https://github.com/iTs-Mantrin/Resume-Builder/assets/112394456/b68d563d-87a6-41a4-ba02-63c94b971026)
+![myresume page](https://github.com/iTs-Mantrin/Resume-Builder/assets/MyResumePage.png)
 
 **Abouts Us** 
 
-![About Us](https://github.com/iTs-Mantrin/Resume-Builder/assets/112394456/ca33b437-4bda-49f7-b899-ca5a3722f8e4)
+![About Us](https://github.com/iTs-Mantrin/Resume-Builder/assets/AboutUs.png)
 
 ## Links for the project
 
-Deployment Link : https://ResumeBuilderByMantrin.netlify.app
+Deployment Link : [https://ResumeBuilderByMantrin.netlify.app](https://resume-builder-five-chi.vercel.app/)
 
 Youtube Link : (/)
 
