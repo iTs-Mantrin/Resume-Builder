@@ -107,19 +107,19 @@ Type **npm start** in terminal to start the application after installing the dep
 
 **Template Selection** - From this component user can choose their favourite template.
 
-![template selection](https://github.com/iTs-Mantrin/Resume-Builder/assets/TemplateSelection.png)
+![template selection](assets/TemplateSelection.png)
 
 **Details Filling Page** - From this component user can add their details of personal info, education, experience and skills.
 
-![perosnal](https://github.com/iTs-Mantrin/Resume-Builder/assets/DetailsFillingPage.png)
+![perosnal](assets/DetailsFillingPage.png)
 
 **Preview Page** - The user will see their resume in its final form in this component, and once everything is finished, they can use the save button to downlaod it in PDF format.
 
-![preview](https://github.com/iTs-Mantrin/Resume-Builder/assets/PreviewPage.png)
+![preview](assets/PreviewPage.png)
 
 **My Resume Page** - This component shows the resume that user saved.
 
-![myresume page](https://github.com/iTs-Mantrin/Resume-Builder/assets/MyResumePage.png)
+![myresume page](assets/MyResumePage.png)
 
 **Abouts Us** 
 
