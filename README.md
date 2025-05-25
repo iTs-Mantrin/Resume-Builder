@@ -127,7 +127,7 @@ Type **npm start** in terminal to start the application after installing the dep
 
 ## Links for the project
 
-Deployment Link : [https://ResumeBuilderByMantrin.netlify.app](https://resume-builder-five-chi.vercel.app/)
+Deployment Link : [https://resume-builder-five-chi.vercel.app](https://resume-builder-five-chi.vercel.app/)
 
 Youtube Link : (/)
 
